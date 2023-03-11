@@ -5,6 +5,6 @@ i'm a random eastern european chud that has too many interests for his own good.
 i map for the source engine, am learning GDScript and the godot engine, trying to learn 3D asset creation for games,
 would want to learn how to make music, want to some day learn C++, and other junk.
 
-i have no idea how you're meant to use github so i'll just use it my own way.
+i'm still learning how to use github, so i might not understand how things work.
 
 have you ever heard of Fortress Forever?
